@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Alices-MacBook-Pro-2.local" name="fitnesse.wikitext.test.CommentTest" tests="3" time="0.003" timestamp="2013-10-25T13:05:28">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/classes" />
+    <property name="env.TMPDIR" value="/var/folders/mn/5v38jfbx09gbdq8yx1fjh44h0000gn/T/" />
+    <property name="env.Apple_Ubiquity_Message" value="/tmp/launch-vlnp4v/Apple_Ubiquity_Message" />
+    <property name="env.PWD" value="/Users/Alice/dev/Workspace/InheritanceToComposition/fitnesse" />
+    <property name="antlib.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/antlib" />
+    <property name="TODAY" value="October 25 2013" />
+    <property name="user.country.format" value="GB" />
+    <property name="env.LANG" value="en_GB.UTF-8" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="java.runtime.version" value="1.7.0_25-b15" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/tmp/launch-ncc2ty/Render" />
+    <property name="user.name" value="Alice" />
+    <property name="env.USER" value="Alice" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0:0" />
+    <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Alice/Dev/Grails/Grails_2.2.2/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/bin" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib" />
+    <property name="fitnesseRoot" value="FitNesseRoot" />
+    <property name="ant.project.default-target" value="all" />
+    <property name="ant.project.name" value="Fitnesse" />
+    <property name="DSTAMP" value="20131025" />
+    <property name="java.version" value="1.7.0_25" />
+    <property name="version" value="20131025" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="ant.file.type.Fitnesse" value="file" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="port" value="8001" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.SHLVL" value="1" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/classes" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre" />
+    <property name="dist.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/dist" />
+    <property name="env.FITNESSE_TEST_PORT" value="8080" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.LOGNAME" value="Alice" />
+    <property name="ant.file" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/build.xml" />
+    <property name="os.version" value="10.8.5" />
+    <property name="env.TERM_PROGRAM_VERSION" value="309" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="23.25-b01" />
+    <property name="env.JAVA_MAIN_CLASS_3020" value="org.apache.tools.ant.launch.Launcher" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="env.JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="env.TERM" value="xterm-256color" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="results.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/test-results" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="user.home" value="/Users/Alice" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.TERM_PROGRAM" value="Apple_Terminal" />
+    <property name="java.library.path" value="/Users/Alice/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/classes:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/ant.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/commons-collections.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/commons-lang.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/diffutils.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/hamcrest-all.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/hamcrest-core.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/htmllexer.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/htmlparser.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/json.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/junit-4.11.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/mockito-all.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/rhino.jar:/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/lib/velocity.jar:/usr/share/java/ant-1.8.2/lib/ant-launcher.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on June 20 2012" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner testsfile=/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/junittestcases1471435469896291366.properties filtertrace=true haltOnError=true haltOnFailure=true showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/test-results/IGNORETHIS.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/junitvmwatcher7855104253317332953.properties propsfile=/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/junit69077673248525215.properties" />
+    <property name="env.TERM_SESSION_ID" value="25865CF5-5310-43F4-BE28-3CF0059B2EC7" />
+    <property name="ant.file.Fitnesse" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/build.xml" />
+    <property name="TSTAMP" value="1402" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.HOME" value="/Users/Alice" />
+    <property name="java.io.tmpdir" value="/var/folders/mn/5v38jfbx09gbdq8yx1fjh44h0000gn/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SSH_AUTH_SOCK" value="/tmp/launch-r2BzIv/Listeners" />
+    <property name="env.COMMAND_MODE" value="unix2003" />
+    <property name="maven.central.url" value="http://repo2.maven.org/maven2" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/Users/Alice/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse" />
+    <property name="line.separator" value="
+" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.GRAILS_HOME" value="/Users/Alice/Dev/Grails/Grails_2.2.2" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="src.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/src" />
+    <property name="ant.project.invoked-targets" value="all" />
+    <property name="javadoc.dir" value="/Users/Alice/Dev/Workspace/InheritanceToComposition/fitnesse/javadoc" />
+  </properties>
+  <testcase classname="fitnesse.wikitext.test.CommentTest" name="scansComments" time="0.0" />
+  <testcase classname="fitnesse.wikitext.test.CommentTest" name="parsesComments" time="0.001" />
+  <testcase classname="fitnesse.wikitext.test.CommentTest" name="translatesComments" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
